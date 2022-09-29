@@ -3,13 +3,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dev-mahmoud123](https://github.com/Dev-mahmoud123)
 
-- 💬 Ask me about **html , css , js , flutter**
+- 💬 Ask me about **Web Technology**
 
 - 📫 How to reach me **mah.awad996@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wP8YYslLIw_5NhGs1-tFTWRDpUFHPTcK/view?usp=sharing](https://drive.google.com/file/d/1wP8YYslLIw_5NhGs1-tFTWRDpUFHPTcK/view?usp=sharing)
 
-- ⚡ Fun fact **I Think I Am Funy**
+- ⚡ I Love **coding gaming  reading and more**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
